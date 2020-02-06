@@ -1,0 +1,6 @@
+org\oracle\challenge\utility\GeneralUtility.class
+org\oracle\challenge\constants\PhoneNumberConstants.class
+org\oracle\challenge\service\LoadNumberService.class
+org\oracle\challenge\exception\NoPhoneNumberException.class
+org\oracle\challenge\utility\CartesianProductUtility.class
+org\oracle\challenge\app\PhoneNumberConvertApp.class
